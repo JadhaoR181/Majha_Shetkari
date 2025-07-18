@@ -61,7 +61,7 @@
 
 ---
 
-## 📸 Screenshots (Add here)
+## 📸 Screenshots
 
 > *(Include a few screenshots to highlight the key features)*
 

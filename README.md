@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Android (Java/Kotlin)**
+- **Android (Java)**
 - **Firebase Authentication**
 - **Firestore Database**
 - **MVVM Architecture (if applicable)**
@@ -75,13 +75,6 @@
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome!  
-Feel free to fork the repo, raise issues, or submit pull requests.
-
----
-
 ## 📄 License
 
 This project is open source under the [MIT License](LICENSE).
@@ -90,6 +83,6 @@ This project is open source under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developed By
 
-**Ravindra Jadhao**  
+**Ravindra Jadhav**  
 Passionate Android & Full-Stack Developer  
 [GitHub Profile](https://github.com/JadhaoR181)
